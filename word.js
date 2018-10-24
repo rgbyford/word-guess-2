@@ -1,4 +1,4 @@
-var Letter = require('./letter.js');
+const Letter = require('./letter.js');
 
 const aoWordLetters = [];
 

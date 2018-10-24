@@ -1,7 +1,7 @@
-var inquirer = require('inquirer');
-var Word = require('./word.js');
+const inquirer = require('inquirer');
+const Word = require('./word.js');
 
-var guessWords = [
+const guessWords = [
     "traveler",
     "guess",
     "boondocks",
